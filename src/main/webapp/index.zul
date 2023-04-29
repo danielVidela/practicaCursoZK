@@ -1,0 +1,21 @@
+<?page title="Auto Generated index.zul"?>
+<window width="100%" height="100%">
+	<borderlayout>
+	<north>
+	 	<label>North</label>
+	</north>
+	
+	<west>
+		<label>West</label>
+	</west>
+	<east>
+		<label>East</label>
+	</east>
+	<center>
+		<label>Center</label>
+	</center>
+	<south>
+		<label>South</label>
+	</south>
+	</borderlayout>
+</window>
